@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360">
+<rect width="1500" height="360" rx="32" fill="#10071A"/>
+<text x="750" y="75" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">Um agente. Todos os seus canais.</text>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+ <rect x="70" y="125" width="300" height="160" rx="25" fill="#1C0E29" stroke="#7C3AED" stroke-width="2"/>
+ <text x="220" y="190" fill="#fff" font-size="46">◉</text><text x="220" y="240" fill="#fff" font-size="23" font-weight="700">WhatsApp</text>
+ <rect x="400" y="125" width="300" height="160" rx="25" fill="#1C0E29" stroke="#8B5CF6" stroke-width="2"/>
+ <text x="550" y="190" fill="#fff" font-size="46">◎</text><text x="550" y="240" fill="#fff" font-size="23" font-weight="700">Instagram</text>
+ <rect x="730" y="125" width="300" height="160" rx="25" fill="#1C0E29" stroke="#A855F7" stroke-width="2"/>
+ <text x="880" y="190" fill="#fff" font-size="46">➤</text><text x="880" y="240" fill="#fff" font-size="23" font-weight="700">Telegram</text>
+ <rect x="1060" y="125" width="370" height="160" rx="25" fill="#1C0E29" stroke="#C084FC" stroke-width="2"/>
+ <text x="1245" y="190" fill="#fff" font-size="46">⌂</text><text x="1245" y="240" fill="#fff" font-size="23" font-weight="700">Seu Website</text>
+</g></svg>
